@@ -2,7 +2,7 @@
 
 #Primero vamos a poner todas las funciones
 
-print('********************************\n*      LIBRERÍA BATOJA         * \n*                              *\n********************************' )
+print('********************************\n*      LIBRERÍA BAROJA         * \n*                              *\n********************************' )
 
 
 def menu():
