@@ -1,7 +1,6 @@
 #TRABAJO FINAL
 
 #Primero vamos a poner todas las funciones
-import json 
 
 print('********************************\n*      LIBRERÍA BATOJA         * \n*                              *\n********************************' )
 
@@ -14,7 +13,7 @@ def menu():
     print('4. Buscar por género')
     print('5. Revisar estado de préstamo')
     print('6. Mostrar estadística')
-    print('
+    print('7.
     
 
 def agregar_libro():
