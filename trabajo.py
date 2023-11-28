@@ -13,7 +13,8 @@ def menu():
     print('4. Buscar por género')
     print('5. Revisar estado de préstamo')
     print('6. Mostrar estadística')
-    print('7.
+    print('7. Préstamo')
+    print('8. 
     
 
 def agregar_libro():
