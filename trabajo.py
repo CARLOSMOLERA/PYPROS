@@ -14,7 +14,13 @@ def menu():
     print('5. Revisar estado de préstamo')
     print('6. Mostrar estadística')
     print('7. Préstamo')
-    print('8. 
+    print('8. Devolución')
+    print('9. Mostrar todos')
+    print('10. Mostrar préstamos')
+    print('11. Modificar libro')
+    print('12. Eliminar libro')
+    print('13. Mostrar recomendaciones')
+    print('14. Salir')
     
 
 def agregar_libro():
